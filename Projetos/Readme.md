@@ -1,17 +1,17 @@
 # Projetos
 
-O código dos projetos foram feitos usando o aplicativo C# Shell no android.
+O código dos projetos foram feitos usando o aplicativo C# Shell no Android.
 
-## Como Colocar o projeto no Compilador/IDE
-- Baixe todo os arquivos do projeto
-- Entre no Compilador/IDE
-- Va na opção de escolher arquivo
+## Como Colocar o projeto na IDE
+- Baixe todos os arquivos do projeto
+- Entre na IDE
+- Vá na opção abrir arquivo/projeto
 - Escolha o arquivo .csproj
-- Ele importara todos os arquivos do projeto desde que estejam instalados.
+- Ele importará todos os arquivos do projeto. *desde que estejam na mesma pasta*
 
-## Como Rodar o Projeto
-Para rodar os projetos você deve:
-- Baixar ou Copiar um Projeto
-- Colocar em um compilador Csharp e tentar rodar
-- Talvez aconteça um erro em algum namespace(using system.algo) porque o C# shell adicionava alguns automaticamente pra melhorar o desempenho do app
+## Como Executar o Projeto
+- Baixe o Projeto
+- Abra o .csproj
+- Aperte Run
+- Talvez aconteça um erro em algum namespace (using System.Algo) porque o C# shell adicionava alguns automaticamente pra melhorar o desempenho do app
 - Exclua o namespace que o csharp alertou e tente novamente.
